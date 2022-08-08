@@ -1,7 +1,7 @@
 {
     "name": "Steam Exchange",
     "website": "https://steamexchange.ca",
-    "description": "Canada's first Centralized and Decentralied Exchange",
+    "description": "Steam Exchange is an upcoming hybrid digital assets trading platform. A culmination of learning, innovation, and scalable digital asset solutions. Developed in Canada, by Canadian engineers; partnered with top Canadian Universities, our platform is truly made in Canada, for the world.",
     "explorer": "https://bscscan.com/token/0xc0924edefb2c0c303de2d0c21bff07ab763163b5",
     "type": "BEP20",
     "symbol": "SteamX",
